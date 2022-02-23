@@ -1,0 +1,12 @@
+{
+  "name": "hdkey nodejs sig test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bitcoinjs-lib": "^6.0.1",
+    "bitcoinjs-message": "^2.2.0",
+    "ec-key": "^0.0.4",
+    "hdkey": "^2.0.1"
+  }
+}
